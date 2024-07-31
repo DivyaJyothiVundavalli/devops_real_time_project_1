@@ -35,7 +35,7 @@
     </style>
   </head>
   <body>
-    <h1> welcome to DevOps community.. file updated Divya </h1>
+    <h1> welcome to DevOps community.. file updated Divya edit2 </h1>
     <h2> DEVOPS_REAL_TIME_PROJECT </h2>
 
     <br>
